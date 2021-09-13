@@ -1,2 +1,0 @@
-# Monzer
-My first projekt 
